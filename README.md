@@ -29,10 +29,10 @@ I'm **new to coding** but deeply interested in learning how a lot of the technol
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [your.email@example.com](mailto:iainjameswall@hotmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/iain-w-ba169765/))
+- 📧 Email: [iainjameswall@hotmail.com](mailto:iainjameswall@hotmail.com)
+- 💼 LinkedIn: [IainJW Linkedin]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/iain-w-ba169765/))
 
 ---
 
-<img src="https://github.com/<your-username>/<repo-name>/blob/main/ijw-logo.png" width="120" alt="IJW Logo">
+<img src="https://github.com/SuperFalGit/IainJW/blob/main/ijw-logo.png" width="120" alt="IJW Logo">
 
