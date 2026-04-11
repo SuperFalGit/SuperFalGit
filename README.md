@@ -36,6 +36,14 @@ I'm **new to coding** but deeply interested in learning how a lot of the technol
 
 ## 🎓 Certifications & Badges
 
+[<img src="https://github.com/SuperFalGit/IainJW/blob/main/s1-hyperautomation.png" width="110" alt="SentinelOne Singularity Hyperautomation Foundations"/>]()
+
+[<img src="https://github.com/SuperFalGit/IainJW/blob/main/s1-enterprise-foundations.png" width="110" alt="SentinelOne Singularity Enterprise Foundations"/>]()
+
+[<img src="https://github.com/SuperFalGit/IainJW/blob/main/s1-windows-log-parser.png" width="110" alt="S1 Support Partners - Windows Log Parser"/>]()
+
+
+
 
 ---
 
