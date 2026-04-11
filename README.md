@@ -30,7 +30,7 @@ I'm **new to coding** but deeply interested in learning how a lot of the technol
 
 ## 📫 Contact Me
 - 📧 Email: [iainjameswall@hotmail.com](mailto:iainjameswall@hotmail.com)
-- 💼 LinkedIn: [[IainJW Linkedin](https://www.linkedin.com/in/iain-w-ba169765/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/iain-w-ba169765/))
+- 💼 LinkedIn: [IainJW](https://www.linkedin.com/in/iain-w-ba169765/)
 
 ---
 
