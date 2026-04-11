@@ -1,7 +1,7 @@
 # Hi, I'm Iain 👋
 
 Welcome to my GitHub profile!  
-I'm **new to coding** but deeply interested in learning how technology works — from system setup to cybersecurity and automation.
+I'm **new to coding** but deeply interested in learning how a lot of the technology works and fits together — from system setup to cybersecurity and automation.  I'm definitely more **Blue Team** than Red Team
 
 ---
 
@@ -29,12 +29,10 @@ I'm **new to coding** but deeply interested in learning how technology works —
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [your.email@example.com](mailto:iainjameswall@hotmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/iain-w-ba169765/))
 
 ---
 
 <img src="https://github.com/<your-username>/<repo-name>/blob/main/ijw-logo.png" width="120" alt="IJW Logo">
 
-> “Every expert was once a beginner — I’m building my foundation one commit at a time.”
