@@ -1,7 +1,7 @@
 # Hi, I'm Iain 👋
 
 Welcome to my GitHub profile!  
-I'm **new to coding** but deeply interested in learning how a lot of the technology works and fits together — from system setup to cybersecurity and automation.  I'm definitely more **Blue Team** than Red Team.
+I'm interested in learning how a lot of the technology works and fits together — from system setup to cybersecurity and automation.  I'm definitely more **Blue Team** than Red Team.
 
 ---
 
