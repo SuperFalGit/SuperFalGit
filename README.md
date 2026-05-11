@@ -1,4 +1,4 @@
-# `whoami` — Iain Wall 🛡️
+# `whoami` — Iain JW 🛡️
 
 ```bash
 $ cat /etc/iain/profile.conf
