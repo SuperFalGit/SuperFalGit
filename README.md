@@ -61,8 +61,9 @@ I believe understanding how to **defend** systems is where the real depth lives.
 <img src="https://github.com/SuperFalGit/IainJW/blob/main/s1-hyperautomation.png" width="110" alt="SentinelOne Singularity Hyperautomation Foundations"/>
 <img src="https://github.com/SuperFalGit/IainJW/blob/main/s1-enterprise-foundations.png" width="110" alt="SentinelOne Singularity Enterprise Foundations"/>
 <img src="https://github.com/SuperFalGit/IainJW/blob/main/s1-windows-log-parser.png" width="110" alt="S1 Support Partners - Windows Log Parser"/>
+<img src="https://github.com/SuperFalGit/IainJW/blob/main/s1-data-investigation.png" width="110" alt="S1 Data Investigation Techniques"/>
 
-**SentinelOne Certified** — Hyperautomation · Enterprise Foundations · Windows Log Parser
+**SentinelOne Certified** — Hyperautomation · Enterprise Foundations · Windows Log Parser · Data Investigation Techniques
 
 ---
 
