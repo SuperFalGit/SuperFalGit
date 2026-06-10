@@ -15,7 +15,7 @@ I'm focused on understanding how technology works at a deep level — not just u
 | Area | Focus |
 |------|-------|
 | Linux | Running Backstage on Ubuntu, building familiarity with the OS |
-| Docker | Containerisation fundamentals and service orchestration |
+| AI Agent | Building a custom AI Agent for Ollama |
 | Cybersecurity | CTF challenges and Blue Team labs |
 | Git | Version control, branching, and collaboration workflows |
 | Backend | APIs, automation, and small technical projects |
